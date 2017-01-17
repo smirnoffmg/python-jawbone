@@ -24,7 +24,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Maxim Smirnoff",
     author_email='smirnoffmg@gmail.com',
-    url='https://github.com/budurli/python_jawbone',
+    url='https://github.com/budurli/python-jawbone',
     packages=[
         'python_jawbone',
     ],
