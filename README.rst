@@ -13,12 +13,15 @@ python_jawbone
         :target: https://python-jawbone.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/budurli/python_jawbone/shield.svg
-     :target: https://pyup.io/repos/github/budurli/python_jawbone/
+.. image:: https://pyup.io/repos/github/budurli/python-jawbone/shield.svg
+     :target: https://pyup.io/repos/github/budurli/python-jawbone/
      :alt: Updates
 
+.. image:: https://pyup.io/repos/github/budurli/python-jawbone/python-3-shield.svg
+    :target: https://pyup.io/repos/github/budurli/python-jawbone/
+    :alt: Python 3
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Python Jawbone API wrapper.
 
 
 * Free software: MIT license
@@ -28,7 +31,20 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 Features
 --------
 
-* TODO
+* Body events
+* Band events
+* Heart rates
+* Custom events
+* Goals
+* Meals
+* Mood
+* Moves
+* Sleeps
+* Timezone
+* Trends
+* User information
+* Friends
+* Workouts
 
 Credits
 ---------
@@ -37,4 +53,3 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
-
