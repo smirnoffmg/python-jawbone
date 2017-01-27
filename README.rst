@@ -6,8 +6,8 @@ python_jawbone
 .. image:: https://img.shields.io/pypi/v/python_jawbone.svg
         :target: https://pypi.python.org/pypi/python_jawbone
 
-.. image:: https://img.shields.io/travis/budurli/python_jawbone.svg
-        :target: https://travis-ci.org/budurli/python_jawbone
+.. image:: https://img.shields.io/travis/budurli/python-jawbone.svg
+        :target: https://travis-ci.org/budurli/python-jawbone
 
 .. image:: https://readthedocs.org/projects/python-jawbone/badge/?version=latest
         :target: https://python-jawbone.readthedocs.io/en/latest/?badge=latest
