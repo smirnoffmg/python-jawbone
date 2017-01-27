@@ -14,12 +14,12 @@ requirements = [
 ]
 
 test_requirements = [
-    # TODO: put package test requirements here
+    'mock',
 ]
 
 setup(
     name='python_jawbone',
-    version='0.1.1',
+    version='0.1.2',
     description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
     long_description=readme + '\n\n' + history,
     author="Maxim Smirnoff",
